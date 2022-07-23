@@ -6,6 +6,7 @@
 
 A simple secure note taking app with these functionalities - 
 
+- User can login from **Mobile Password**, **Custom Password** or **App Password** (Secure Note Password) 
 - Option To Add, Delete, Edit, Read using Room Db
 - Option To Add Importance of Note - **Normal**,**Needed**,**Important**
 - Option to **lock** every note with custom password or app password
