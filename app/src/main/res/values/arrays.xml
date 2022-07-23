@@ -1,0 +1,25 @@
+<resources>
+    <!-- Open App From Password Preference    -->
+    <string-array name="open_passwords_methods_entries">
+        <item>Mobile Password</item>
+        <item>App Password</item>
+        <item>Custom Password</item>
+    </string-array>
+
+    <string-array name="open_passwords_methods_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <!-- Filter Options Array  -->
+    <string-array name="filter_options_array">
+        <item>Get latest notes</item>
+        <item>Get only private notes</item>
+        <item>Get oldest note</item>
+        <item>Get important notes</item>
+        <item>Get needed notes</item>
+        <item>Get only public notes</item>
+    </string-array>
+
+</resources>

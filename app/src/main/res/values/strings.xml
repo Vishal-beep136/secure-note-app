@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SecureNote</string>
+    <string name="settings">settings</string>
+    <string name="search_icon">search icon</string>
+    <string name="search_here">Search here</string>
+    <string name="add_secure_note">add secure note</string>
+    <string name="back_arrow">back arrow</string>
+    <string name="label_note">label</string>
+    <string name="label_normal_note">Normal Note</string>
+    <string name="label_needed_note">Needed Note</string>
+    <string name="label_important_note">Important Note</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="app_settings">App Settings</string>
+    <string name="filter_note">filter note</string>
+    <string name="no_note_found">No Note Found</string>
+    <string name="your_last_remembered_password_not_even_match_1_please_try_again">Your last remembered password not even match 1%! please try again!</string>
+    <string name="check">Check</string>
+    <string name="last_remembered_password">last remembered password</string>
+    <string name="enter_your_last_password_you_remembered_you_don_t_need_to_be_100_correct">Enter your last password you remembered. You don’t need to be 100% correct!</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="hurray_you_can_reset_your_password">Hurray! You can reset your password!</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="reset">Reset</string>
+    <string name="did_you_forget_your_password">Did You Forget Your Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="done">Done</string>
+    <string name="enter_password_to_continue">Enter password to continue</string>
+    <string name="password_required">Password Required</string>
+    <string name="forgot_password">Forgot password?</string>
+</resources>
