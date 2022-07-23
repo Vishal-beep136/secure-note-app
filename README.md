@@ -2,6 +2,8 @@
   <img src="https://user-images.githubusercontent.com/82146140/180601703-55b81525-e928-4398-8cff-36a4debebe57.png">
 </h1>
 
+Best project for beginner and intermediate 🤩
+
 # Secure Note
 
 A simple secure note taking app with these functionalities - 
