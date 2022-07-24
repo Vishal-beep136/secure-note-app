@@ -33,12 +33,7 @@ A simple secure note taking app with these functionalities -
 <img src="https://user-images.githubusercontent.com/82146140/180603691-99d4e475-a558-4345-804a-1febf9b2b461.png" width="200px">
 </p>
 
-
-# Video Demo
-
-https://user-images.githubusercontent.com/82146140/180605624-60782b3e-91bb-4229-b69a-a02e669244e3.mp4
-
-
+## [Video Demo](https://github.com/Vishal-beep136/secure-note-app/blob/readme/VIDEO_DEMO.md)
 
 
 # License
