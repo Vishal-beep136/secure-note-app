@@ -43,4 +43,6 @@
     <string name="enter_password_to_continue">Enter password to continue</string>
     <string name="password_required">Password Required</string>
     <string name="forgot_password">Forgot password?</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_note">Enter Note</string>
 </resources>
