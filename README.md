@@ -38,7 +38,7 @@ A simple secure note taking app with these functionalities -
 
 # License
 
-[![Apache: 2.0](https://img.shields.io/badge/Apache-2.0-green.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[![Apache: 2.0](https://img.shields.io/badge/Apache-2.0-green.svg)](https://github.com/Vishal-beep136/secure-note-app/blob/main/LICENSE)
 
 ```
    Copyright 2022 Vishal
