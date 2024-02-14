@@ -17,24 +17,21 @@ A simple secure note taking app with these functionalities -
 
 # Table of Contents
 
-1. Installation Tutorial
-	I. Prerequisites
-	II. Installation Methods
-2. Configuration
-3. Screenshots
-4. Video Demo
-5. License
+1. Prerequisites
+2. Installation Methods
+3. Configuration
+4. Screenshots
+5. Video Demo
+6. License
 
-# Installation/Setup Tutorial
-
-I. Prerequisites:
+# Prerequisites:
 Hardware: iPhone (The minimum compatible version)
 Software: iOS (The minimum compatible version)
 Development environment: (The developers building from source)
 Xcode version (The minimum compatible version)
 macOS version (The minimum compatible version)
 
-II. Installation Methods:
+# Installation Methods:
 
 App Store:
 Search for "Secure Note" app on the App Store.
