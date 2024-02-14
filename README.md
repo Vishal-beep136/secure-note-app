@@ -42,7 +42,7 @@ Clone the repository: git clone https://github.com/your-username/SecureNote.git
 Open the project in Xcode (the minimum compatible version).
 Follow the build instructions within the project.
 
-#Configuration
+# Configuration:
 
 First Launch:
 Choose a login method: Mobile Password, Custom Password, or App Password.
