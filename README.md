@@ -15,6 +15,63 @@ A simple secure note taking app with these functionalities -
 - Support Basic Markdown formatting thanks to [MarkWon](https://github.com/noties/Markwon)
 - Also You can filter notes by oldest, latest, visibility, importance.
 
+# Table of Contents
+
+1. Installation Tutorial
+	I. Prerequisites
+	II. Installation Methods
+2. Configuration
+3. Screenshots
+4. Video Demo
+5. License
+
+# Installation/Setup Tutorial
+
+I. Prerequisites:
+Hardware: iPhone (The minimum compatible version)
+Software: iOS (The minimum compatible version)
+Development environment: (The developers building from source)
+Xcode version (The minimum compatible version)
+macOS version (The minimum compatible version)
+
+II. Installation Methods:
+
+App Store:
+Search for "Secure Note" app on the App Store.
+Download and install the app.
+
+Building from Source (Developers only):
+Clone the repository: git clone https://github.com/your-username/SecureNote.git
+Open the project in Xcode (the minimum compatible version).
+Follow the build instructions within the project.
+
+#Configuration
+
+First Launch:
+Choose a login method: Mobile Password, Custom Password, or App Password.
+If using Custom Password, set a strong password.
+If using App Password, set a different password for app access (distinct from Mobile Password).
+
+Room Database:
+No additional configuration needed (pre-populated).
+
+Note Importance:
+Access importance options from the note editor.
+Choose between Normal, Needed, or Important categories.
+
+Note Locking:
+Access lock options from the note editor.
+Choose between Custom Password or App Password for locking.
+Remember your chosen passwords for unlocking notes.
+
+Markdown Formatting:
+Use basic Markdown syntax for formatting notes within the editor.
+Refer to online resources for Markdown syntax details.
+
+Note Filtering:
+Access filters from the main notes list.
+Filter by Oldest, Latest, Visibility (locked/unlocked), or Importance.
+
 # Screenshots 
 
 <p>
@@ -32,6 +89,9 @@ A simple secure note taking app with these functionalities -
 
 <img src="https://user-images.githubusercontent.com/82146140/180603691-99d4e475-a558-4345-804a-1febf9b2b461.png" width="200px">
 </p>
+
+
+# Video Demo
 
 [Video Demo](https://github.com/Vishal-beep136/secure-note-app/blob/readme/VIDEO_DEMO.md)
 
